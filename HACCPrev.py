@@ -19,8 +19,8 @@ methodology_data = [
 # Table 2: The 7 Principles (Pages 3-4) - Full Content Included
 principles_data = [
     {"p": "Principle 1", "desc": "Analyze possible physical, chemical and microbiological hazards", "ex": "Growth of microorganisms"},
-    {"p": "Principle 2", "desc": "Determination of critical control points (CCP)", "ex": "Identifying the step to prevent/eliminate hazards"},
-    {"p": "Principle 3", "desc": "Setting critical limits", "ex": "Adding preservative additive 2-2.5g/Kg"},
+    {"p": "Principle 2", "desc": "Determination of critical control points (CCP)", "ex": "Adding preservative additive Identifying the step to prevent/eliminate hazards"},
+    {"p": "Principle 3", "desc": "Setting critical limits", "ex": "2-2.5g/Kg"},
     {"p": "Principle 4", "desc": "Establishment of a surveillance system", "ex": "Supervision of the weighing and addition of the additive"},
     {"p": "Principle 5", "desc": "Formulation of corrective measures", "ex": "Determine in advance what to do with food with wrong additive amount"},
     {"p": "Principle 6", "desc": "System verification", "ex": "Samples of finished product, calibrated scales, etc."},
